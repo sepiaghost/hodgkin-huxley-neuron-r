@@ -5,6 +5,7 @@ An R implementation of the Hodgkin-Huxley model of the squid giant axon, with an
 This project rebuilds a model I first made in Excel as an undergraduate graduation project, where I plotted the action potential and used an adjustable bar to change the stimulus current and see the exact point at which the neuron fires. Here it is rewritten in R with differential equation solvers, reproducible figures, and a slider-based app.
 
 ![Neuron response below, near, and above threshold](figures/threshold_demo.png)
+![Interactive app showing repeated firing](figures/app_screenshot.png)
 
 ## What it shows
 
